@@ -15,7 +15,7 @@
 ![日常UI](Screenshot/screenshot5.png)
 ![战斗UI](Screenshot/screenshot6.png)
 ![结算界面](Screenshot/screenshot7.png)
-![战斗菜单](Screenshot/screenshot7.png)
+![战斗菜单](Screenshot/screenshot8.png)
 
 ## 食用方法：
 * 下载 美版素材包（ULUS10512） 在PPSSPP的记忆棒内容文件夹内新建`TEXTURES/NPJH50040`文件夹，如果没有`TEXTURES`需要新建一个
