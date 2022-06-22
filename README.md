@@ -23,7 +23,7 @@
 * 下载最新版本的汉化高清素材，复制到刚才的文件夹中覆盖
 * 回应[山雨lou](https://space.bilibili.com/5002935)更新了手柄配置。若为XBOX手柄，无需更改。若为Sony的Dualshock手柄，将目录下的`PS_BUTTONS.zip`内的文件复制替换到`TEXTURES/NPJH50040`下即可。
 * 打开PPSSPP 在设置中 找到`工具/开发者工具`，勾选纹理替换 ，加载P3P汉化版即可
-[美版素材+美版镜像+汉化版镜像(百度网盘)](https://pan.baidu.com/s/1j610nAeDjzmOPbl2TOGTEA?pwd=kkgo) 提取码 `kkgo`
+[美版素材+美版镜像+汉化版镜像+0.11u1（含美版素材包版本）(百度网盘)](https://pan.baidu.com/s/1j610nAeDjzmOPbl2TOGTEA?pwd=kkgo) 提取码 `kkgo`
 ### 暂时还有很多没有完成高清化的内容，慢慢等更新吧
 ### 如果可以，请在开发者工具中勾上`保存新纹理`，遇到许多模糊的字体后，将`TEXTURES/NPJH50040/new`文件夹打包发给我
 ### 若发现有错别字，请提交issue 并告知：错别字，应为何字，完整语句
